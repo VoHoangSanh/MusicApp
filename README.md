@@ -34,7 +34,7 @@ Clone dự án:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/music-player-app.git
+git clone https://github.com/VoHoangSanh/MusicApp
 Mở Android Studio, build và chạy ứng dụng trên thiết bị hoặc giả lập.
 
 ## Ảnh minh họa
