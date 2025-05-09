@@ -1,7 +1,7 @@
 ## Music App
 Giới thiệu
 Ứng dụng Music Player là một ứng dụng nghe nhạc dành cho thiết bị Android, được phát triển bằng Java trên Android Studio. Ứng dụng sử dụng MySQL làm cơ sở dữ liệu và quản lý qua phpMyAdmin.
-# 000Webhost đã dừng hoạt động nên không thể lấy được dữ liệu nữa
+### 000Webhost đã dừng hoạt động nên không thể lấy được dữ liệu nữa
 ## Tính năng chính
 Quản lý bài hát: Thêm, xóa, sửa thông tin bài hát.
 
